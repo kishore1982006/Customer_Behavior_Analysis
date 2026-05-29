@@ -264,6 +264,9 @@ Customer-Shopping-Behavior-Analysis/
 * Created interactive dashboards for decision making
 * Generated actionable recommendations for retail optimization
 
+Dashboard:
+<img width="1383" height="761" alt="image" src="https://github.com/user-attachments/assets/bc3c6f9d-02ef-4654-a448-270bba90d56f" />
+
 ---
 
 # Future Improvements
